@@ -20,3 +20,6 @@ User Info
 
 My Bag and My Disc Wishlist data
 Player Profile data (pdga#, rating or whatever info they would want to provide)
+
+
+https://www.figma.com/file/cJ1bC2SQQgA8UZNOZiNvyZ/Capstone-Spec?node-id=0%3A1
